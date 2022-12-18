@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\HW_Seminar_8\HW_Seminar_8_Tasks54,56,58,60\bin\Debug\net6.0\HW_Seminar_8_Tasks54,56,58,60.exe
+C:\Users\user\Desktop\HW_Seminar_8\HW_Seminar_8_Tasks54,56,58,60\bin\Debug\net6.0\HW_Seminar_8_Tasks54,56,58,60.deps.json
+C:\Users\user\Desktop\HW_Seminar_8\HW_Seminar_8_Tasks54,56,58,60\bin\Debug\net6.0\HW_Seminar_8_Tasks54,56,58,60.runtimeconfig.json
+C:\Users\user\Desktop\HW_Seminar_8\HW_Seminar_8_Tasks54,56,58,60\bin\Debug\net6.0\HW_Seminar_8_Tasks54,56,58,60.dll
+C:\Users\user\Desktop\HW_Seminar_8\HW_Seminar_8_Tasks54,56,58,60\bin\Debug\net6.0\HW_Seminar_8_Tasks54,56,58,60.pdb
+C:\Users\user\Desktop\HW_Seminar_8\HW_Seminar_8_Tasks54,56,58,60\obj\Debug\net6.0\HW_Seminar_8_Tasks54,56,58,60.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HW_Seminar_8\HW_Seminar_8_Tasks54,56,58,60\obj\Debug\net6.0\HW_Seminar_8_Tasks54,56,58,60.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HW_Seminar_8\HW_Seminar_8_Tasks54,56,58,60\obj\Debug\net6.0\HW_Seminar_8_Tasks54,56,58,60.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HW_Seminar_8\HW_Seminar_8_Tasks54,56,58,60\obj\Debug\net6.0\HW_Seminar_8_Tasks54,56,58,60.AssemblyInfo.cs
+C:\Users\user\Desktop\HW_Seminar_8\HW_Seminar_8_Tasks54,56,58,60\obj\Debug\net6.0\HW_Seminar_8_Tasks54,56,58,60.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HW_Seminar_8\HW_Seminar_8_Tasks54,56,58,60\obj\Debug\net6.0\HW_Seminar_8_Tasks54,56,58,60.dll
+C:\Users\user\Desktop\HW_Seminar_8\HW_Seminar_8_Tasks54,56,58,60\obj\Debug\net6.0\refint\HW_Seminar_8_Tasks54,56,58,60.dll
+C:\Users\user\Desktop\HW_Seminar_8\HW_Seminar_8_Tasks54,56,58,60\obj\Debug\net6.0\HW_Seminar_8_Tasks54,56,58,60.pdb
+C:\Users\user\Desktop\HW_Seminar_8\HW_Seminar_8_Tasks54,56,58,60\obj\Debug\net6.0\HW_Seminar_8_Tasks54,56,58,60.genruntimeconfig.cache
+C:\Users\user\Desktop\HW_Seminar_8\HW_Seminar_8_Tasks54,56,58,60\obj\Debug\net6.0\ref\HW_Seminar_8_Tasks54,56,58,60.dll
