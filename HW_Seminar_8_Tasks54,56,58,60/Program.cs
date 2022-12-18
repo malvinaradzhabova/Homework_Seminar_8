@@ -170,6 +170,7 @@ PrintArray(array);
 15 18 */
 
 /* 
+
 class Program
 {
     public static void Main (string[] args)
@@ -199,7 +200,7 @@ class Program
             }
             return result;
         }
-        
+
 
   void PrintArray(int[,] Array)
   {
