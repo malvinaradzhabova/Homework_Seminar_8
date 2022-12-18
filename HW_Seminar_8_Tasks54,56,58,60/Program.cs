@@ -257,6 +257,8 @@ PrintArray(GetMatrix(array1,array2));
 26(1,0,1) 55(1,1,1) */
 
 /* 
+
+
 class Program
  {
   public static void Main (string[] args)
@@ -336,6 +338,7 @@ PrintArray(array);
 10 09 08 07 */
 
 /* 
+
 class Program 
 {
   public static void Main (string[] args) 
